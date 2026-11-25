@@ -1,0 +1,30 @@
+/* Дополнительные стили, которых нет в Bootstrap: шрифт и фирменный цвет */
+body {
+    font-family: "Onest", Arial, sans-serif;
+}
+
+.text-accent {
+    color: tomato;
+}
+
+.btn-accent {
+    border-color: tomato;
+    background-color: tomato;
+    color: white;
+}
+
+.btn-accent:hover,
+.btn-accent:focus-visible {
+    border-color: black;
+    background-color: black;
+    color: white;
+}
+
+.cta {
+    background-color: tomato;
+}
+
+.hero-image {
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+}

@@ -1,0 +1,20 @@
+Отчёт о проверках — ЛР 10
+
+W3C Validator (vnu, HTML + CSS): ошибок нет
+
+
+HTMLHint: ошибок нет
+Config loaded: .htmlhintrc
+
+   Config loaded: .htmlhintrc
+
+   Config loaded: .htmlhintrc
+
+   Config loaded: .htmlhintrc
+
+   Config loaded: .htmlhintrc
+
+Scanned 5 files, no errors found (38 ms).
+
+ESLint: ошибок нет
+(без замечаний)
